@@ -12,4 +12,5 @@ Danger Prevention System for Sleepwalker
 
 
 ## 2. 작품 구성도  
-<img src="https://user-images.githubusercontent.com/52437364/71821197-d1d7c400-30d4-11ea-8c88-e8bcde1b7013.png" width="90%"></img>
+
+<img src="https://user-images.githubusercontent.com/52437364/71821197-d1d7c400-30d4-11ea-8c88-e8bcde1b7013.png" width="70%"></img>
