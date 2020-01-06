@@ -12,7 +12,7 @@ Danger Prevention System for Sleepwalker
 * 몽유병 증세로 인해, 사용자의 심박 수가 안전범위를 벗어나고 수면 상태에 들어간 위치에서 일정 거리 이상 멀어지면 사용자의 보호자에게 알람 형태의 알림을 전송    
 
 
-
+  
 ## 2. 작품 구성도  
 
 <img src="https://user-images.githubusercontent.com/52437364/71821197-d1d7c400-30d4-11ea-8c88-e8bcde1b7013.png"></img>
@@ -25,7 +25,7 @@ Danger Prevention System for Sleepwalker
 * 심박 수와 위치가 안정범위를 벗어났을 때 보호자의 단말기로 알림 전송  
 
 
-
+  
 ## 3. 하드웨어 [Arduino]
 * 다음은 송신부, 수신부 하드웨어와 송신부 착용 모습임
 
