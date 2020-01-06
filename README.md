@@ -25,7 +25,7 @@ Danger Prevention System for Sleepwalker
 * 심박 수와 위치가 안정범위를 벗어났을 때 보호자의 단말기로 알림 전송  
 
 
-  
+
 ## 3. 하드웨어 [Arduino]
 * 다음은 송신부, 수신부 하드웨어와 송신부 착용 모습임
 
