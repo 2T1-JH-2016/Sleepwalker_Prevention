@@ -28,4 +28,4 @@ Danger Prevention System for Sleepwalker
 
 ## 3. 하드웨어 [Arduino]
 
-
+![하드웨어](https://user-images.githubusercontent.com/52437364/71821984-00ef3500-30d7-11ea-9124-59419d93f902.jpg)
