@@ -14,3 +14,10 @@ Danger Prevention System for Sleepwalker
 ## 2. 작품 구성도  
 
 <img src="https://user-images.githubusercontent.com/52437364/71821197-d1d7c400-30d4-11ea-8c88-e8bcde1b7013.png"></img>
+
+－ 웨어러블 밴드(송신부)는 심박센서, GPS 모듈, LoRa 모듈로 구성됨
+－ 수신부는 LoRa 모듈, WiFi 모듈로 구성됨
+－ 송신부는 사용자의 심박 수와 위치를 측정하여 송신부의 LoRa로 데이터를 전송
+－ 수신부에서 서버로 데이터를 전송해 DB에 저장
+－ 사용자의 실시간 심박 수와 위치를 가져와 어플리케이션에서 확인
+－ 심박 수와 위치가 안정범위를 벗어났을 때 보호자의 단말기로 알림 전송
