@@ -2,6 +2,7 @@
 Danger Prevention System for Sleepwalker
 
 
+
 ## 1. 소개  
 본 연구는 몽유병 환자가 처할 수 있는 위험을 방지하는 시스템 제작을 목표로 함  
 해당 시스템의 시나리오는 다음과 같음  
@@ -9,6 +10,7 @@ Danger Prevention System for Sleepwalker
 * 웨어러블 기기를 통해 사용자의 심박 수와 위치를 실시간으로 측정  
 * 측정된 사용자의 심박 수와 위치를 데이터베이스에 저장   
 * 몽유병 증세로 인해, 사용자의 심박 수가 안전범위를 벗어나고 수면 상태에 들어간 위치에서 일정 거리 이상 멀어지면 사용자의 보호자에게 알람 형태의 알림을 전송  
+
 
 
 ## 2. 작품 구성도  
@@ -23,4 +25,7 @@ Danger Prevention System for Sleepwalker
 * 심박 수와 위치가 안정범위를 벗어났을 때 보호자의 단말기로 알림 전송
 
 
+
 ## 3. 하드웨어 [Arduino]
+
+
