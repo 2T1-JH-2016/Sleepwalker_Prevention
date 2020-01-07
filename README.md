@@ -48,4 +48,9 @@ Danger Prevention System for Sleepwalker
 ![image](https://user-images.githubusercontent.com/52437364/71872858-fb3e3180-3160-11ea-8c28-d5285c3904c4.png)
 * 어플리케이션의 아이콘은 위과 같음
 * 몽유병 증상이 언제 나타날지 몰라 상시 긴장상태인 환자와 보호자의 편한 수면을 돕기 위한 어플리케이션이라는 의미를 가짐
-
+![image](https://user-images.githubusercontent.com/52437364/71874915-6fc79f00-3166-11ea-84c0-4c242ec7ec27.png)
+![image](https://user-images.githubusercontent.com/52437364/71874921-72c28f80-3166-11ea-90eb-8a3567cce851.png)
+* app-key는 송신부와 수신부의 일대일 통신을 위한 고유번호임
+* app-key는 하드웨어마다 다르게 주어짐
+* [그림 10]은 회원가입 창에서 사용자가 editText를 클릭하면 DB에서 가져온 값이 자동으로 입력되는 것을 보여줌
+* 환자가 위험상태일 경우 연락 받을 보호자의 전화번호를 입력
