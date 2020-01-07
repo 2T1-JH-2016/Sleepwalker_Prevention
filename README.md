@@ -41,3 +41,7 @@ Danger Prevention System for Sleepwalker
 * 심박 수는 10번 측정된 값의 평균을 계산해 수신부로 전송
 * 하드웨어가 사용하는 DB를 테이블은 [그림 6]과 같음
 * beat(심박), lati(위도), longi(경도), 사용자 확인을 위한 app-key, 시간, 보호자 전화번호로 구성
+
+
+
+## 4. 소프트웨어 [Android]
