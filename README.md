@@ -32,3 +32,12 @@ Danger Prevention System for Sleepwalker
 ![하드웨어](https://user-images.githubusercontent.com/52437364/71821984-00ef3500-30d7-11ea-9124-59419d93f902.jpg)
 ![image](https://user-images.githubusercontent.com/52437364/71822039-2e3be300-30d7-11ea-977f-18135fcbfc03.png)
 ![image](https://user-images.githubusercontent.com/52437364/71822070-3dbb2c00-30d7-11ea-8c56-401ffb714a56.png)
+* 하드웨어는 송신부와 수신부로 나누어 구현
+* 송신부는 사용자가 착용하는 웨어러블 기기로 ①심박센서, ②GPS모듈, ③Arduinouno, ④LoRa 통신모듈로 구성
+* 충전식 배터리를 연결해 휴대 가능하게 함
+* 수신부는 LoRa 통신 모듈과 WiFi 기능을 탑재한 아두이노 우노 호환보드인 WeMos D1보드로 구성
+* 수신부는 사용자의 침실에 위치
+* 사용자가 [그림 3]의 송신부를 착용하면 심박센서로 심박 수를, GPS 모듈로 현재위치를 측정하고 LoRa 통신 모듈을 통해 측정한 값을 수신부로 전달
+* 심박 수는 10번 측정된 값의 평균을 계산해 수신부로 전송
+* 하드웨어가 사용하는 DB를 테이블은 [그림 6]과 같음
+* beat(심박), lati(위도), longi(경도), 사용자 확인을 위한 app-key, 시간, 보호자 전화번호로 구성
