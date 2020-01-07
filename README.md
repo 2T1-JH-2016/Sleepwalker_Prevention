@@ -45,3 +45,7 @@ Danger Prevention System for Sleepwalker
 
 
 ## 4. 소프트웨어 [Android]
+![image](https://user-images.githubusercontent.com/52437364/71872858-fb3e3180-3160-11ea-8c28-d5285c3904c4.png)
+* 어플리케이션의 아이콘은 위과 같음
+* 몽유병 증상이 언제 나타날지 몰라 상시 긴장상태인 환자와 보호자의 편한 수면을 돕기 위한 어플리케이션이라는 의미를 가짐
+
