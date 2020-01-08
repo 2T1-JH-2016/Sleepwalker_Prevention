@@ -56,9 +56,9 @@ Danger Prevention System for Sleepwalker
 * [그림 10]은 회원가입 창에서 사용자가 editText를 클릭하면 DB에서 가져온 값이 자동으로 입력되는 것을 보여줌
 * 환자가 위험상태일 경우 연락 받을 보호자의 전화번호를 입력
 
-![image](https://user-images.githubusercontent.com/52437364/71981740-573eae00-3266-11ea-996e-7d486777cc23.png)
-![image](https://user-images.githubusercontent.com/52437364/71981748-5ad23500-3266-11ea-8dae-1bddc9cfdf10.png)
-![image](https://user-images.githubusercontent.com/52437364/71981753-5d348f00-3266-11ea-9aa8-4479e0b3bcc5.png)
+![image](https://user-images.githubusercontent.com/52437364/71983441-25c7e180-326a-11ea-8e75-3c4cb4aeaffa.png)
+![image](https://user-images.githubusercontent.com/52437364/71983445-282a3b80-326a-11ea-9e13-f24243e6e3f1.png)
+![image](https://user-images.githubusercontent.com/52437364/71983447-2a8c9580-326a-11ea-87cf-6f0d7e49489c.png)
 
 * 어플리케이션은 Heart Fragment, Location Fragment, Alarm Fragment 세 화면으로 나누어짐
 * Heart Fragment는 5초 간격으로 갱신된 사용자의 현재 심박 수가 표시
