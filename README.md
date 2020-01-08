@@ -69,3 +69,13 @@ Danger Prevention System for Sleepwalker
 * 회원가입 시 입력한 보호자 전화번호를 DB에서 가져와 Alarm Fragment에 표시
 * 사용자가 안전범위에서 벗어났을 때 보호자의 전화번호로 알림 전송  
 
+![image](https://user-images.githubusercontent.com/52437364/71981960-dfbd4e80-3266-11ea-8b4c-5332405fb6f3.png)
+![image](https://user-images.githubusercontent.com/52437364/71981961-dfbd4e80-3266-11ea-8008-9866bb37e410.png)
+* [그림 17], [그림 18]은 유형별 알림을 화면  
+
+
+
+## 4. 결론  
+* Grove Finger Clip 심장 박동 센서와 시리얼 통신이 가능한 GPS 모듈이 장착된 손목 밴드형 웨어러블 기기 개발
+* 환자의 심박 수가 안전 심박 수를 벗어나거나 수면 시 위치를 벗어나면 환자가 위험에 처한다고 가정하고 사용자의 보호자에게 전화 알림을 전송
+* LoRa를 사용하여 장거리에서도 환자의 심박 수와 위치데이터를 수신 가능
