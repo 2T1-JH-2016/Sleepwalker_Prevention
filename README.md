@@ -54,3 +54,5 @@ Danger Prevention System for Sleepwalker
 * app-key는 하드웨어마다 다르게 주어짐
 * [그림 10]은 회원가입 창에서 사용자가 editText를 클릭하면 DB에서 가져온 값이 자동으로 입력되는 것을 보여줌
 * 환자가 위험상태일 경우 연락 받을 보호자의 전화번호를 입력
+
+
