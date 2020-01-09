@@ -87,11 +87,11 @@ void setup() {
 }
 
 void loop() {
-    String ver = "GET /insert_data3.php?";
+    String ver = "GET /Arduino_insert_data.php?";
     String key = lora_app_key;
     ver += SNIPE.lora_recv();
     WiFiClient client;
-    if (ver != "GET /insert_data3.php?AT_RX_TIMEOUT" && ver != "GET /insert_data3.php?AT_RX_ERROR" )
+    if (ver != "GET /Arduino_insert_data.php?AT_RX_TIMEOUT" && ver != "GET /Arduino_insert_data.php?AT_RX_ERROR" )
     {
           DebugSerial.println("recv success");
           DebugSerial.println(SNIPE.lora_getRssi());
