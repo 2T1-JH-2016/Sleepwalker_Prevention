@@ -71,7 +71,7 @@ Danger Prevention System for Sleepwalker
 
 ![image](https://user-images.githubusercontent.com/52437364/71981960-dfbd4e80-3266-11ea-8b4c-5332405fb6f3.png)
 ![image](https://user-images.githubusercontent.com/52437364/71981961-dfbd4e80-3266-11ea-8008-9866bb37e410.png)
-* [그림 17], [그림 18]은 유형별 알림을 화면  
+* 위 그림은 유형별 알림을 화면  
 
 
 
