@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <menu tools:showIn="navigation_view" xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single" android:id="@+id/menu_tab">
+    <item android:title="HeartRate"
+        android:id="@+id/nav_news"
+        android:icon="@android:drawable/ic_menu_add"/>
+    <item android:title="Location"
+        android:id="@+id/nav_review"
+        android:icon="@android:drawable/ic_menu_mapmode"/>
+    <item android:title="Alarm"
+        android:id="@+id/nav_qanda"
+        android:icon="@android:drawable/ic_menu_help"/>
+
+</group>
+
+    <group android:checkableBehavior="single" android:id="@+id/menu_member">
+    <item android:title="회원가입"
+        android:id="@+id/nav_signup"
+        android:icon="@android:drawable/ic_menu_add"/>
+    <item android:title="로그인"
+        android:id="@+id/nav_login"
+        android:icon="@android:drawable/ic_menu_myplaces"/>
+    <item android:title="로그아웃"
+        android:id="@+id/nav_logout"
+        android:icon="@android:drawable/ic_menu_delete"/>
+
+</group>
+
+    <item android:title="프로그램 정보">
+    <menu>
+    <item android:title="프로그램 정보"
+        android:id="@+id/nav_info"
+        android:icon="@android:drawable/ic_menu_info_details"/>
+    <item android:title="저작권 정보"
+        android:id="@+id/nav_copyright"
+        android:icon="@android:drawable/ic_menu_view"/>
+    </menu>
+    </item>
+
+</menu>

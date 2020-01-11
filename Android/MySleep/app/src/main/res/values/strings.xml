@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">HoneySleep,🌙</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab_text_1">💓 Rate</string>
+    <string name="tab_text_2">🚩 Location</string>
+    <string name="tab_text_3">🔔 Alarm</string>
+    <string name="title_activity_signup">회원 가입</string>
+    <string name="google_maps_key">AIzaSyDu7gcAQAuB955akvTorhaMer7S6s_MMwk</string>
+    <!-- Strings related to login -->
+
+    <string name="prompt_id">아이디</string>
+    <string name="prompt_name">이름</string>
+    <string name="prompt_password">패스워드</string>
+    <string name="prompt_sex">성별</string>
+    <string name="prompt_age">나이</string>
+    <string name="prompt_phone">전화번호</string>
+    <string name="prompt_type">사용자타입</string>
+    <string name="action_sign_up">회원 가입</string>
+    <string name="action_sign_in">로그인</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_id">This id is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_different_password">This password is different</string>
+    <string name="error_invalid_nickname">This nickname is Invalid</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing emailcompletions." </string>
+    <string name="title_activity_login">로그인</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="prompt_appkey">앱키</string>
+</resources>
