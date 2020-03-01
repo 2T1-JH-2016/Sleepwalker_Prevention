@@ -69,8 +69,8 @@ Danger Prevention System for Sleepwalker
 * 회원가입 시 입력한 보호자 전화번호를 DB에서 가져와 Alarm Fragment에 표시
 * 사용자가 안전범위에서 벗어났을 때 보호자의 전화번호로 알림 전송  
 
-![image](https://user-images.githubusercontent.com/52437364/71981960-dfbd4e80-3266-11ea-8b4c-5332405fb6f3.png)
-![image](https://user-images.githubusercontent.com/52437364/71981961-dfbd4e80-3266-11ea-8008-9866bb37e410.png)
+![image](https://user-images.githubusercontent.com/52437364/75619643-07bf9300-5bc2-11ea-9432-1a53bc008b5c.png)
+![image](https://user-images.githubusercontent.com/52437364/75619685-7a307300-5bc2-11ea-81ee-e99ed016e4d4.png)
 * 위 그림은 유형별 알림을 화면  
 
 
